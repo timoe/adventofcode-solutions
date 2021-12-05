@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "AventOfCode-1",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/1./main.go",
+            "args": ["${workspaceFolder}/1./input.text"]
+        },
+        {
+            "name": "AventOfCode-1.1",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/1.1./main.go",
+            "args": ["${workspaceFolder}/1./input.text"]
+        },
+        {
+            "name": "AventOfCode-2",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/2./main.go",
+            "args": ["${workspaceFolder}/2./input.text"]
+        }
+    ]
+}
