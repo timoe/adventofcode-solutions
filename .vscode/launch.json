@@ -24,6 +24,14 @@
             "mode": "auto",
             "program": "${workspaceFolder}/2./main.go",
             "args": ["${workspaceFolder}/2./input.text"]
+        },
+        {
+            "name": "AventOfCode-6",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/6./main.go",
+            "args": ["${workspaceFolder}/6./input.text"]
         }
     ]
 }
